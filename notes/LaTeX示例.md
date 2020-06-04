@@ -14,3 +14,15 @@ $$
 \end{gathered}
 $$
 
+
+
+
+
+
+
+jupyter 插入latex图片 
+
+![](http://latex.codecogs.com/gif.latex?\\ 3+5\dots = )
+
+
+
